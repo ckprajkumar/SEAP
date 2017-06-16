@@ -1,2 +1,2 @@
 # SEAP
-Repository for account planning project
+Repository for account planning project updated
